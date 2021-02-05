@@ -1,0 +1,18 @@
+body {
+    background-color:black;
+    color:white;
+    padding: 40px;
+    padding-top: 20%;
+    padding-right: 60%;
+    font-family: Arial;
+    text-align: left;
+    background-image: url(./../../images/grandfather-grandpa-comic-meme-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: 1700px;
+    background-position-x: right;
+    background-position-y: -50%;
+  }
+
+  .btn-success{
+    border-radius: 50%;
+  }
